@@ -45,7 +45,6 @@ nav ul li a:hover{
 	border-radius: 50%;
 	width:320px;
 	height:320px;
-	background-color:;
 	margin:180px 350px 0px 0px;
 	border:3px dashed black;
 }
@@ -60,7 +59,7 @@ nav ul li a:hover{
 	color:blue;
 }
 .face{
-	width:255px;
+	width:260px;
 	height:260px;
 	margin:25px 0px 0px 28px;
 	border-radius:50%;
